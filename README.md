@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing a full-stack web application using React and Node.js.<br>🌱 I’m currently learning: Diving deeper into React to master its advanced features and best practices.<br>👯 I’m looking to collaborate on: Open-source projects related to web development and React applications.<br>🤔 I’m looking for help with: Implementing efficient algorithms for big data processing.<br>💬 Ask me about: Web development, cloud computing, and my favorite programming tips.<br>⚡ Fun fact: I learned React in just one day!
+🔭 All my project is listed in here: Leokhani.com.<br>🌱 I’m currently learning: Diving deeper into React to master its advanced features and best practices.<br>👯 I’m looking to collaborate on: Open-source projects related to web development and React applications.<br>🤔 I’m looking for help with: Implementing efficient algorithms for big data processing.<br>💬 Ask me about: Web development, cloud computing, and my favorite programming tips.<br>⚡ Fun fact: I learned React in just one day!
 
 
 ## 🌐 Socials:
